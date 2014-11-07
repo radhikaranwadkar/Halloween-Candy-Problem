@@ -27,3 +27,12 @@
 *.i*86
 *.x86_64
 *.hex
+SOLVE_FOR_CANDIES
+
+# text input and output files
+*.txt
+
+# Log file
+log
+
+
